@@ -1,5 +1,4 @@
 
-[![MasterHead](https://images.app.goo.gl/xjjfUZeNBDdtsU8PA)]
 
 
 <h1 align="center">Hi 👋, I'm PRASANNA NARAYANA KONE</h1>
