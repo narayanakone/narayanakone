@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Graduating **Master's Data Science**
 
-- 👨‍💻 All of my projects are available at [#portfolioLinkHERE](#portfolioLinkHERE)
+- 👨‍💻 All of my projects are available at [(https://narayanakone.github.io/)]
 
 - 📫 How to reach me **prasannanarayanakone@gmail.com**
 
