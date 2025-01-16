@@ -3,13 +3,13 @@
 
 <h1 align="center">Hi 👋, I'm PRASANNA NARAYANA KONE</h1>
 <h3 align="center">Dedicated to excelling in the field of data science</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narayanakone&label=Profile%20views&color=0e75b6&style=flat" alt="narayanakone" /> </p>
 
 - 🌱 I’m currently Graduating **Master's Data Science**
 
-- 👨‍💻 All of my projects are available at [(https://narayanakone.github.io/)]
+- 👨‍💻 All of my projects are available at [([https://narayanakone.github.io](https://narayanakone.github.io/generic.html)/)]
 
 - 📫 How to reach me **prasannanarayanakone@gmail.com**
 
